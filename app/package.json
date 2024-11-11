@@ -1,0 +1,13 @@
+{
+    "name": "dockerized-webapp",
+    "version": "1.0.0",
+    "description": "Proekt s MySQL",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1",
+        "mysql": "^2.18.1"
+    }
+}
